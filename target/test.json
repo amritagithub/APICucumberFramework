@@ -1,0 +1,4340 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: amrita.jha88@gmail.com"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 749703000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2816059200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 650 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "650",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 713600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 431009200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 651 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "651",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1354900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 457322900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 140 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "140",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1370700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 447647800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 141 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "141",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1276200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 476388700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 142 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "142",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 633300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 510525300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 143 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "143",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 586200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 616967600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 144 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "144",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 882300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 426468500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 145 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "145",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 637100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 399282300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 146 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "146",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1395500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 424413200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 147 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "147",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 804800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 415066500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 148 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "148",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1328200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 418672600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 149 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "149",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 628300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 463912400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 150 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "150",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1065100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;15",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 672442400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 650 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "650",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 597400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;16",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 549019500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 651 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "651",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2125300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;17",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 574919500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 140 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "140",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1963600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;18",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 414270800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 141 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "141",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3970200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 31,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;19",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 368801400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 142 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "142",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 864700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;20",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 357208000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 143 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "143",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1352200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;21",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 434269400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 144 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "144",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 727200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 34,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;22",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 350163000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 145 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "145",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1265300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;23",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 691555900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 146 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "146",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1773400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;24",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 374842200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 147 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "147",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1070400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;25",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 363277200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 148 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "148",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1395200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;26",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 511522800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 149 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "149",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3235700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 39,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;27",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1843431900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 150 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "150",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  2 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1223600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 40,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;28",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 609499700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 650 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "650",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1283800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 41,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;29",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 366516400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 651 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "651",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 549100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 42,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;30",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 600050600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 140 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "140",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1188700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;31",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 407304100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 141 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "141",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 949300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 44,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;32",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 388605200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 142 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "142",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1240700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 45,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;33",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 475136500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 143 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "143",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 610100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 46,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;34",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 620134500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 144 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "144",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1265400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 47,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;35",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 445742000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 145 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "145",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 646900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 48,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;36",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 555125900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 146 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "146",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1272400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 49,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;37",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 533990400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 147 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "147",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1259200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 50,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;38",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 463534800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 148 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "148",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 598900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 51,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;39",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 395969200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 149 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "149",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 514200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 52,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;40",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 426864800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 150 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "150",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"COVAXIN\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 577700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 53,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;41",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 361837300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 650 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "650",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 623400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 54,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;42",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 386704500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 651 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "651",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 586900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 55,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;43",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1486117800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 140 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "140",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 736700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 56,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;44",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 916985000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 141 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "141",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1584500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 57,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;45",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 314716000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 142 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "142",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 875800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 58,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;46",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 319018500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 143 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "143",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1103100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 59,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;47",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 434406500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 144 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "144",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1362000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 60,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;48",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 394496700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 145 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "145",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1210900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 61,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;49",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 406374600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 146 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "146",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 879500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 62,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;50",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 379548700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 147 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "147",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1130600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 63,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;51",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 537413100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 148 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "148",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1042500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 64,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;52",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 475189100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 149 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "149",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1360900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseTest.TestSetUp()"
+            }
+          }
+        ],
+        "line": 65,
+        "name": "Verify availability of Covieshield and Covaxin in some Noida,Ghaziabad \u0026 Delhi",
+        "description": "",
+        "id": "to-check-availability-of-vaccine;verify-availability-of-covieshield-and-covaxin-in-some-noida,ghaziabad-\u0026-delhi;;53",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 443332200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I have ID of 150 and Date of vaccination 6-06-2021",
+            "match": {
+              "arguments": [
+                {
+                  "val": "150",
+                  "offset": 13
+                },
+                {
+                  "val": "6",
+                  "offset": 41
+                },
+                {
+                  "val": "06",
+                  "offset": 43
+                },
+                {
+                  "val": "2021",
+                  "offset": 46
+                }
+              ],
+              "location": "DoseAvailabilityStepDefinition.i_have_ID_of_and_Date_of_vaccination(int,int,int,int)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I check for  1 of \"Covishield\"",
+            "match": {},
+            "matchedColumns": [
+              1,
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I verify if vaccine dose is available",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@vaccine"
+          }
+        ]
+      }
+    ],
+    "name": "To check availability of vaccine",
+    "description": "I want to chcek availability of vaccines in in some Noida,Ghaziabad \u0026 Delhi",
+    "id": "to-check-availability-of-vaccine",
+    "keyword": "Feature",
+    "uri": "src/test/resources/feature/cowin.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@vaccine"
+      }
+    ]
+  }
+]
